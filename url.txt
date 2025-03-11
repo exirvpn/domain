@@ -1,1 +1,1 @@
-https://ns1.exirvpn.com:8443
+https://ns1.exirvpn.com:8444
