@@ -1,1 +1,1 @@
-https://exirpro.org:8443
+https://ns1.exirpro.org:8443
